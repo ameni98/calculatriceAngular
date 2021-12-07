@@ -1,0 +1,24 @@
+.card{
+    margin-top: 50px;
+    margin-left:600px;
+    margin-right:600px;
+   
+}
+textarea:disabled{
+    cursor: not-allowed;white-space:pre;
+}
+  
+
+.btn:not(.zero){margin-right:0.80px;
+    margin-top: 0.80px;
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgba(10, 10, 10, 0.274);
+}
+
+.zero{
+    width:130%;
+    margin-top: 0.80px;
+    height: 50px;
+    border: 1px solid rgba(10, 10, 10, 0.274);
+}
